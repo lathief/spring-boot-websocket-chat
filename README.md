@@ -19,7 +19,7 @@ How to send a message only to users who are subscribed to a particular topic, or
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/callicoder/spring-boot-websocket-chat-demo.git
+git clone https://github.com/lathief/spring-boot-websocket-chat.git
 ```
 
 **2. Build and run the app using maven**
