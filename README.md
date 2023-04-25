@@ -11,7 +11,7 @@ But  WebSocket is just a communication protocol. It doesn’t define things like
 How to send a message only to users who are subscribed to a particular topic, or how to send a message to a particular user. We need STOMP for these functionalities.
 ## Requirements
 
-1. Java - 1.8.x
+1. Java - 11.x
 2. Maven - 3.x.x
 
 ## Usage
